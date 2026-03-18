@@ -113,9 +113,11 @@ client.close()
 
 ##Output:
 SERVER:
+
 <img width="478" height="163" alt="image" src="https://github.com/user-attachments/assets/8600ceb1-a425-4338-89fa-7e19003327e9" />
 
 CLIENT:
+
 <img width="510" height="156" alt="image" src="https://github.com/user-attachments/assets/2cc5a451-9684-40b1-948a-a67e73b8e312" />
 
 ## Result:
